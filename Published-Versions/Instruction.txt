@@ -4,5 +4,7 @@ DSA v.2.0
 > Download and extract this file.
 > Use RAR or 7z if this file format is not supported.
 
-> Put all data files in the Data folder or select it by using the path.
+> Put all data files in the Data folder (there are some example data files already added in the Data folder)
+> Or select the data file by using its full path.
 > Program is self-contained, so it is not necessary to have .NET installed, and can be used directly.
+
