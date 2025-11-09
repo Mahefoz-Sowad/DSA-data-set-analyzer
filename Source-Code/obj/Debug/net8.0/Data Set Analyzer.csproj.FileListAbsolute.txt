@@ -1,0 +1,15 @@
+D:\Classes\VS CODE\Code C#\VSCODE GIT\DSA-data-set-analyzer\Source-Code\bin\Debug\net8.0\Data Set Analyzer.exe
+D:\Classes\VS CODE\Code C#\VSCODE GIT\DSA-data-set-analyzer\Source-Code\bin\Debug\net8.0\Data Set Analyzer.deps.json
+D:\Classes\VS CODE\Code C#\VSCODE GIT\DSA-data-set-analyzer\Source-Code\bin\Debug\net8.0\Data Set Analyzer.runtimeconfig.json
+D:\Classes\VS CODE\Code C#\VSCODE GIT\DSA-data-set-analyzer\Source-Code\bin\Debug\net8.0\Data Set Analyzer.dll
+D:\Classes\VS CODE\Code C#\VSCODE GIT\DSA-data-set-analyzer\Source-Code\bin\Debug\net8.0\Data Set Analyzer.pdb
+D:\Classes\VS CODE\Code C#\VSCODE GIT\DSA-data-set-analyzer\Source-Code\obj\Debug\net8.0\Data Set Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Classes\VS CODE\Code C#\VSCODE GIT\DSA-data-set-analyzer\Source-Code\obj\Debug\net8.0\Data Set Analyzer.AssemblyInfoInputs.cache
+D:\Classes\VS CODE\Code C#\VSCODE GIT\DSA-data-set-analyzer\Source-Code\obj\Debug\net8.0\Data Set Analyzer.AssemblyInfo.cs
+D:\Classes\VS CODE\Code C#\VSCODE GIT\DSA-data-set-analyzer\Source-Code\obj\Debug\net8.0\Data Set Analyzer.csproj.CoreCompileInputs.cache
+D:\Classes\VS CODE\Code C#\VSCODE GIT\DSA-data-set-analyzer\Source-Code\obj\Debug\net8.0\Data Set Analyzer.sourcelink.json
+D:\Classes\VS CODE\Code C#\VSCODE GIT\DSA-data-set-analyzer\Source-Code\obj\Debug\net8.0\Data Set Analyzer.dll
+D:\Classes\VS CODE\Code C#\VSCODE GIT\DSA-data-set-analyzer\Source-Code\obj\Debug\net8.0\refint\Data Set Analyzer.dll
+D:\Classes\VS CODE\Code C#\VSCODE GIT\DSA-data-set-analyzer\Source-Code\obj\Debug\net8.0\Data Set Analyzer.pdb
+D:\Classes\VS CODE\Code C#\VSCODE GIT\DSA-data-set-analyzer\Source-Code\obj\Debug\net8.0\Data Set Analyzer.genruntimeconfig.cache
+D:\Classes\VS CODE\Code C#\VSCODE GIT\DSA-data-set-analyzer\Source-Code\obj\Debug\net8.0\ref\Data Set Analyzer.dll
